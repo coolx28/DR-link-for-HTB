@@ -1,3 +1,7 @@
+# Sources
+
+[Google spreadsheet](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)
+
 # Linux Boxes
 
 ### Lame
@@ -317,294 +321,164 @@
 
 ---
 ## Windows 
-[]()
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+### Legacy
 
+[Video Hackersploit](https://www.youtube.com/watch?v=uV6WNOfP8s8)
 
+[Writeup](https://0xdf.gitlab.io/2019/02/21/htb-legacy.html)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+---
 
+### Blue
 
+[Video Ippsec](https://www.youtube.com/watch?v=YRsfX6DW10E)
 
+[Writeup berzerk0](https://berzerk0.github.io/GitPage/CTF-Writeups/Blue-HTB.html)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+---
 
 
+### Devel
 
+[Video Ippsec](https://www.youtube.com/watch?v=2LNyAbroZUk)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup Barradell Johns](https://blog.barradell-johns.com/index.php/2019/02/13/htb-devel-writeup/)
 
+[Writeup 0xdf](https://0xdf.gitlab.io/2019/03/05/htb-devel.html)
 
+---
 
+### Optimum
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Video Ippsec](https://www.youtube.com/watch?v=kWTnVBIpNsE)
 
+[Writeup berzerk0](https://berzerk0.github.io/GitPage/CTF-Writeups/Optimum-HTB.html)
 
+[Writeup teckk2](https://teckk2.github.io/writeup/2017/12/20/Optimum.html)
 
+---
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+### Bastard
 
+[Video Ippsec](https://www.youtube.com/watch?v=lP-E5vmZNC0)
 
+[Writeup 0xdf](https://0xdf.gitlab.io/2019/03/12/htb-bastard.html)
 
+[Writeup teckk2](https://teckk2.github.io/writeup/2017/12/21/Bastard.html)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+---
 
+### Granny & Grandpa
 
+[Video Ippsec](https://www.youtube.com/watch?v=ZfPVGJGkORQ)
 
+[Writeup 0xdf](https://0xdf.gitlab.io/2019/03/06/htb-granny.html)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup Hok](https://hok.ninja/2019/04/20/htb-granny)
 
+---
 
+### Arctic
 
+[Video Ippsec](https://www.youtube.com/watch?v=e9lVyFH7-4o)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup offsecdeer](https://offsecdeer.gitlab.io/post/htb-writeup-arctic/)
 
+[Writeup UNC Chapell Students](https://ntropy-unc.github.io/jekyll/update/post/writeup/htb/2019/01/09/arctic-WriteUp.html)
 
+---
 
+### Silo
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Video Ippsec](https://www.youtube.com/watch?v=2c7SzNo9uoA)
 
+[Writeup v3ded](https://v3ded.github.io/ctf/htb-silo.html)
 
+[Writeup 0xdf](https://0xdf.gitlab.io/2018/08/04/htb-silo.html)
 
+[Writeup dastinia](https://dastinia.io/write-up/hackthebox/2018/08/04/hackthebox-silo-writeup/)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+---
 
+### Bounty
 
+[Video Ippsec](https://www.youtube.com/watch?v=7ur4om1K98Y)
 
+[Writeup Rana Khalil](https://medium.com/@ranakhalil101/hack-the-box-bounty-writeup-w-o-metasploit-14467aea7815)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup 0xdf](https://0xdf.gitlab.io/2018/10/27/htb-bounty.html)
 
+---
 
+### Jerry
 
+[Video Ippsec](https://www.youtube.com/watch?v=PJeBIey8gc4)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup David Hamann](https://davidhamann.de/2019/12/03/htb-writeup-jerry/)
 
+[Writeup 0xrick](https://0xrick.github.io/hack-the-box/jerry/)
 
+---
 
+### Conceal
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Video Ippsec](https://www.youtube.com/watch?v=1ae64CdwLHE)
 
+[Writeup 0xrick](https://0xrick.github.io/hack-the-box/conceal/)
 
+[Writeup snowscan](https://snowscan.io/htb-writeup-conceal/)
 
+[Writeup 0xdf](https://0xdf.gitlab.io/2019/05/18/htb-conceal.html)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+---
 
+### Chatterbox
 
+[Video Ippsec](https://www.youtube.com/watch?v=_dRrvJNdP-s)
 
+[Writeup codemonkeyism](https://codemonkeyism.co.uk/htb-chatterbox/)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup absolomb](https://www.absolomb.com/2018-06-16-HackTheBox-Chatterbox/)
 
+[Writeup 0x23b](https://0x23b.github.io/posts/hackthebox/2018-06-16-htb_chatterbox_writeup/)
 
+---
 
+### Forest
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Video Ippsec](https://www.youtube.com/watch?v=H9FcE_FMZio)
 
+[Writeup snowscan](https://snowscan.io/htb-writeup-forest/)
 
+[Writeup rizemon](https://rizemon.github.io/hackthebox/ldap/kerberos/windows/2020/03/22/forest-htb.html)
 
+---
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+### Bankrobber
 
+[Video Bankrobber](https://www.youtube.com/watch?v=zYmA9ECuCio)
 
+[Writeup snowscan](https://snowscan.io/htb-writeup-bankrobber/)
 
+[Writeup xploit](https://xploit.sh/2020/03/07/htb-bankrobber/)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+---
 
+### Secontes
 
+[Video Ippsec](https://www.youtube.com/watch?v=PJXb2pK8K84)
 
+[Writeup snowscan](https://snowscan.io/htb-writeup-secnotes/)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup 0xrick](https://0xrick.github.io/hack-the-box/secnotes/)
 
+---
 
+### Bastion
 
+[Video Ippsec](https://www.youtube.com/watch?v=2j3FNp5pjQ4)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup 0xrick](https://0xrick.github.io/hack-the-box/bastion/)
 
-
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
-
-
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-
-
+[Writeup snowscan](https://snowscan.io/htb-writeup-bastion/)
