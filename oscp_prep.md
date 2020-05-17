@@ -2,34 +2,6 @@
 
 [Google spreadsheet](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)
 
-# Content Creators
-
-Thank you for your work which is making the oscp preparation an awesome experience.
-
-[Teck__K2](https://twitter.com/Teck__K2)
-
-[TJ_Null](https://twitter.com/TJ_Null)
-
-[Rana Khalil](https://twitter.com/rana__khalil)
-
-[David Hamann](https://twitter.com/d_hamann)
-
-[Snowscan](https://twitter.com/snowscan)
-
-[Jack Baradell](https://twitter.com/JackBJohns)
-
-[V3ded](https://twitter.com/V3ded)
-
-[0x23B](https://twitter.com/0x23B)
-
-[Rene Graf](https://twitter.com/0x23E)
-
-[Hrushikesh](https://twitter.com/hkh4cks)
-
-[Dean Williams](https://twitter.com/_deanwilliams)
-
-[0xdf](https://twitter.com/0xdf_)
-
 # Linux Boxes
 
 ### Lame
@@ -510,3 +482,34 @@ Thank you for your work which is making the oscp preparation an awesome experien
 [Writeup 0xrick](https://0xrick.github.io/hack-the-box/bastion/)
 
 [Writeup snowscan](https://snowscan.io/htb-writeup-bastion/)
+
+---
+
+# Content Creators
+
+Thank you for your work which is making the oscp preparation an awesome experience.
+
+[Teck__K2](https://twitter.com/Teck__K2)
+
+[TJ_Null](https://twitter.com/TJ_Null)
+
+[Rana Khalil](https://twitter.com/rana__khalil)
+
+[David Hamann](https://twitter.com/d_hamann)
+
+[Snowscan](https://twitter.com/snowscan)
+
+[Jack Baradell](https://twitter.com/JackBJohns)
+
+[V3ded](https://twitter.com/V3ded)
+
+[0x23B](https://twitter.com/0x23B)
+
+[Rene Graf](https://twitter.com/0x23E)
+
+[Hrushikesh](https://twitter.com/hkh4cks)
+
+[Dean Williams](https://twitter.com/_deanwilliams)
+
+[0xdf](https://twitter.com/0xdf_)
+
