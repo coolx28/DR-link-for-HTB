@@ -10,6 +10,8 @@
 
 [Video Hackersploit](https://www.youtube.com/watch?v=Ru8YxARNS7M)
 
+---
+
 ### Brainfuck
 
 [Writeup Rana Khalil](https://medium.com/@ranakhalil101/hack-the-box-brainfuck-writeup-w-o-metasploit-5075c0c55e93)
@@ -20,6 +22,8 @@
 
 [Video - Brainfuck](https://www.youtube.com/watch?v=o5x1yg3JnYI)
 
+---
+
 ### Shocker
 
 [Video - Ippsec](https://www.youtube.com/watch?v=IBlTdguhgfY)
@@ -28,6 +32,8 @@
 
 [Writeup codemonkeyism](https://codemonkeyism.co.uk/htb-shocker/)
 
+---
+
 ### Bashed
 
 [Video - Ippsec](https://www.youtube.com/watch?v=2DqdPcbYcy8)
@@ -35,6 +41,8 @@
 [Writeup Rana Khalil](https://medium.com/@ranakhalil101/hack-the-box-bashed-writup-a8e51a2914c2)
 
 [Writeup 0xdf](https://0xdf.gitlab.io/2018/04/29/htb-bashed.html)
+
+---
 
 ### Nibbles
 
@@ -46,6 +54,8 @@
 
 [Writeup 0xdf](https://0xdf.gitlab.io/2018/06/30/htb-nibbles.html)
 
+---
+
 ### Beep
 
 [Video Ippsec](https://www.youtube.com/watch?v=XJmBpOd__N8)
@@ -56,6 +66,8 @@
 
 [Writeup John Barradell](https://blog.barradell-johns.com/index.php/2019/07/25/htb-bleep/)
 
+---
+
 ### Cronos
 
 [Ippsec Video](https://www.youtube.com/watch?v=CYeVUmOar3I)
@@ -63,6 +75,8 @@
 [Writeup haao](https://blog.haao.sh/writeups/cronos-writeup/)
 
 [Writeup teckk2](https://teckk2.github.io/writeup/2018/02/22/Cronos.html)
+
+---
 
 ### Nineveh
 
@@ -73,6 +87,8 @@
 [Writeup V3ded](https://v3ded.github.io/ctf/htb-nineveh.html)
 
 [Writeup hk4cks](https://hkh4cks.com/blog/2017/12/30/htb-nineveh-walkthrough/)
+
+---
 
 ### Sense
 
@@ -86,6 +102,8 @@
 
 [Writeup Tutorials IT](https://www.tutorialsit.com/2020/05/02/htb-sense-without-metasploit/)
 
+---
+
 ### Solidstate
 
 [Writeup Rana Khalil](https://medium.com/@ranakhalil101/hack-the-box-solidstate-writeup-w-o-metasploit-c43063c9ca8e)
@@ -96,6 +114,8 @@
 
 [Writeup Bernie Lim](https://hackso.me/solidstate-1-walkthrough/)
 
+---
+
 ### Node
 
 [Video Ippsec](https://www.youtube.com/watch?v=sW10TlZF62w)
@@ -105,6 +125,8 @@
 [Writeup Rana Khalil](https://medium.com/@ranakhalil101/hack-the-box-node-writeup-w-o-metasploit-3dfb48ee4a9)
 
 [Writeup teckk2](https://teckk2.github.io/writeup/2018/03/04/Node.html)
+
+---
 
 ### Valentine
 
@@ -118,6 +140,8 @@
 
 [Video Ippsec](https://www.youtube.com/watch?v=XYXNvemgJUo)
 
+---
+
 ### Poison
 
 [Video Ippsec](https://www.youtube.com/watch?v=rs4zEwONzzk)
@@ -128,6 +152,8 @@
 
 [Writeup 0xdf](https://0xdf.gitlab.io/2018/09/08/htb-poison.html)
 
+---
+
 ### Sunday
 
 [Video Ippsec](https://www.youtube.com/watch?v=xUrq29OTSuM)
@@ -135,6 +161,8 @@
 [Writeup 0xdf](https://0xdf.gitlab.io/2018/09/29/htb-sunday.html)
 
 [Writeup codemonkeyism](https://codemonkeyism.co.uk/htb-sunday/)
+
+---
 
 ### Tartarsauce
 
@@ -146,6 +174,8 @@
 
 [Writeup Cesena](https://cesena.github.io/2018/09/03/tartarsauce/)
 
+---
+
 ### Irked
 
 [Video Irked](https://www.youtube.com/watch?v=OGFTM_qvtVI)
@@ -155,6 +185,8 @@
 [Writeup 0xdf](https://0xdf.gitlab.io/2019/04/27/htb-irked.html)
 
 [Writeup 0x00sec](https://0x00sec.org/t/hackthebox-irked-writeup/13269)
+
+---
 
 ### Friendzone
 
@@ -166,6 +198,8 @@
 
 [Writeup snowscan](https://snowscan.io/htb-writeup-friendzone/)
 
+---
+
 ### Swagshop
 
 [Video Ippsec](https://www.youtube.com/watch?v=qECG2_8xw_s)
@@ -175,6 +209,8 @@
 [Writeup Snowscan](https://snowscan.io/htb-writeup-swagshop/)
 
 [Writeup 0xdf](https://0xdf.gitlab.io/2019/09/28/htb-swagshop.html)
+
+---
 
 ### Networked
 
@@ -186,6 +222,8 @@
 
 [Writeup snowscan](https://snowscan.io/htb-writeup-networked/)
 
+---
+
 ### Jarvis
 
 [Video Ippsec](https://www.youtube.com/watch?v=YHHWvXBfwQ8)
@@ -194,11 +232,15 @@
 
 [Writeup snowscan](https://snowscan.io/htb-writeup-jarvis/)
 
+---
+
 ### Mirai
 
 [Video Ippsec](https://www.youtube.com/watch?v=SRmvRGUuuno)
 
 [Writeup ejento](https://ejento.github.io/HtB-Mirai-WriteUp/)
+
+---
 
 ### Popcorn
 
@@ -208,6 +250,8 @@
 
 [Wirteup teckk2](https://teckk2.github.io/writeup/2017/12/19/Popcorn.html)
 
+---
+
 ### Haircut
 
 [Video Ippsec](https://www.youtube.com/watch?v=9ZXG1qb8lUI)
@@ -215,6 +259,8 @@
 [Writeup hkh4cks](https://hkh4cks.com/blog/2017/12/30/htb-haircut-walkthrough/)
 
 [Writeup John Barradell](https://blog.barradell-johns.com/index.php/2019/10/16/htb-haircut/)
+
+---
 
 ### Blocky 
 
@@ -226,6 +272,8 @@
 
 [Writeup 0x23b](https://0x23b.github.io/posts/hackthebox/2017-12-09-htb_blocky_writeup/)
 
+---
+
 ### Frolic 
 
 [Video Ippsec](https://www.youtube.com/watch?v=b6WGQSJu_zQ)
@@ -236,6 +284,8 @@
 
 [Writeup 0xdf](https://0xdf.gitlab.io/2019/03/23/htb-frolic.html)
 
+---
+
 ### October
 
 [Video Ippsec](https://www.youtube.com/watch?v=K05mJazHhF4)
@@ -245,6 +295,8 @@
 [Writeup 0xdf](https://0xdf.gitlab.io/2019/03/26/htb-october.html)
 
 
+---
+
 ### Postman
 
 [Video Ippsec](https://www.youtube.com/watch?v=jJnHET1o8ZQ)
@@ -252,6 +304,8 @@
 [Writeup rizemon](https://rizemon.github.io/hackthebox/redis/ssh/webmin/linux/2020/03/15/postman-htb.html)
 
 [Writeup Secjuice](https://www.secjuice.com/htb-postman-walkthrough/)
+
+---
 
 ### Mango
 
