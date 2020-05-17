@@ -176,40 +176,93 @@
 
 [Writeup 0xdf](https://0xdf.gitlab.io/2019/09/28/htb-swagshop.html)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+### Networked
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Video Ippsec](https://www.youtube.com/watch?v=H3t3G70bakM)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup 0xrick](https://0xrick.github.io/hack-the-box/networked/)
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Writeup David Hamann](https://davidhamann.de/2019/12/04/htb-writeup-networked/)
+
+[Writeup snowscan](https://snowscan.io/htb-writeup-networked/)
+
+### Jarvis
+
+[Video Ippsec](https://www.youtube.com/watch?v=YHHWvXBfwQ8)
+
+[Writeup 0xrick](https://0xrick.github.io/hack-the-box/jarvis/)
+
+[Writeup snowscan](https://snowscan.io/htb-writeup-jarvis/)
+
+### Mirai
+
+[Video Ippsec](https://www.youtube.com/watch?v=SRmvRGUuuno)
+
+[Writeup ejento](https://ejento.github.io/HtB-Mirai-WriteUp/)
+
+### Popcorn
+
+[Video Ippsec](https://www.youtube.com/watch?v=NMGsnPSm8iw)
+
+[Writeup offsecdeer](https://offsecdeer.gitlab.io/post/htb-writeup-popcorn/)
+
+[Wirteup teckk2](https://teckk2.github.io/writeup/2017/12/19/Popcorn.html)
+
+### Haircut
+
+[Video Ippsec](https://www.youtube.com/watch?v=9ZXG1qb8lUI)
+
+[Writeup hkh4cks](https://hkh4cks.com/blog/2017/12/30/htb-haircut-walkthrough/)
+
+[Writeup John Barradell](https://blog.barradell-johns.com/index.php/2019/10/16/htb-haircut/)
+
+### Blocky 
+
+[Video Ippsec](https://www.youtube.com/watch?v=C2O-rilXA6I)
+
+[Writeup berzerk0](https://berzerk0.github.io/GitPage/CTF-Writeups/Blocky-HTB.html)
+
+[Writeup v3ded](https://v3ded.github.io/ctf/htb-blocky.html)
+
+[Writeup 0x23b](https://0x23b.github.io/posts/hackthebox/2017-12-09-htb_blocky_writeup/)
+
+### Frolic 
+
+[Video Ippsec](https://www.youtube.com/watch?v=b6WGQSJu_zQ)
+
+[Writeup snowscan](https://snowscan.io/htb-writeup-frolic/)
+
+[Writeup 0xrick](https://0xrick.github.io/hack-the-box/frolic/)
+
+[Writeup 0xdf](https://0xdf.gitlab.io/2019/03/23/htb-frolic.html)
+
+### October
+
+[Video Ippsec](https://www.youtube.com/watch?v=K05mJazHhF4)
+
+[Writeup teckk2](https://teckk2.github.io/writeup/2018/02/23/October.html)
+
+[Writeup 0xdf](https://0xdf.gitlab.io/2019/03/26/htb-october.html)
+
+
+### Postman
+
+[Video Ippsec](https://www.youtube.com/watch?v=jJnHET1o8ZQ)
+
+[Writeup rizemon](https://rizemon.github.io/hackthebox/redis/ssh/webmin/linux/2020/03/15/postman-htb.html)
+
+[Writeup Secjuice](https://www.secjuice.com/htb-postman-walkthrough/)
+
+### Mango
+
+[Video Ippsec](https://www.youtube.com/watch?v=NO_lsfhQK_s)
+
+[Writeup thevladestvlad](https://thevladdestvlad.github.io/posts/HTB/Mango)
+
+[Writeup snowscan](https://snowscan.io/htb-writeup-mango/)
+
+---
+## Windows 
 []()
 
 []()
