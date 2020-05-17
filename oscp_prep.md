@@ -24,7 +24,7 @@
 
 [Writeup - haxys](https://haxys.net/posts/2019/04/22-htb-brainfuck1/)
 
-[Video - Brainfuck](https://www.youtube.com/watch?v=o5x1yg3JnYI)
+[Video - Ippsec](https://www.youtube.com/watch?v=o5x1yg3JnYI)
 
 ---
 
