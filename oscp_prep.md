@@ -26,6 +26,24 @@
 
 [Video - Ippsec](https://www.youtube.com/watch?v=o5x1yg3JnYI)
 
+1. Nmap
+2. SSL Enum -> Add hostnames to `/etc/hosts`.
+3. WPscan -> authenticated sql Injection.
+4. WPScan enumerate users.
+4. Searchsploit -> Unauthenticated Admin access
+5. Use exploit html, edit URLs and exploit the vuln.
+6. Login as Admin 
+7. Find user SMTP Password in Plugin.
+8. Setup SMTP Client and read emails.
+9. Credentials to Forum in Emails.
+10. Find encrypted Forum Entries.
+
+
+Takeaways
+
+- Check SSL Information in Browser for e.g. Emails. And Add Hostnames to `/etc/hosts`.
+- Use Burp Suite Redirect Proxy set on 127.0.0.1 to point to remote host. 
+- Use devtools to uncover censored passwords.
 ---
 
 ### Shocker
