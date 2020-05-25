@@ -37,6 +37,14 @@
 8. Setup SMTP Client and read emails.
 9. Credentials to Forum in Emails.
 10. Find encrypted Forum Entries.
+11. Decrypt Key with one time pad.
+12. Decrypt URL with recovered Key.
+13. Get URL for id_rsa file.
+14. Crack Password for file.
+15. Login with SSH.
+16. Find RSA encryption script.
+17. Google "Decrypt RSA with P Q A given" copy script from Stackoverrflow
+18. Decrypt and Convert Flag from Hex to Ascii.
 
 
 Takeaways
